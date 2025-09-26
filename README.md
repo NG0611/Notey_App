@@ -20,8 +20,9 @@ Notey App is a simple and user-friendly note-taking application designed to help
 ## Screenshots
 Here are some screenshots of the app:
 
-![](Notesappss/screenshot1.png)  
-![](Notesappss/screenshot2.png)  
+<img src="Notesappss/screenshot1.png" width="200">
+<img src="Notesappss/screenshot2.png" width="200">
+
 
 
 
